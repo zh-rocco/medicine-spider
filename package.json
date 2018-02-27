@@ -1,0 +1,20 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "draftlog": "^1.0.12",
+    "iconv-lite": "^0.4.19",
+    "mysql2": "^1.5.2",
+    "puppeteer": "^1.0.0",
+    "sequelize": "^4.33.4"
+  }
+}
