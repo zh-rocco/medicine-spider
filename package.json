@@ -15,6 +15,6 @@
     "iconv-lite": "^0.4.19",
     "mysql2": "^1.5.2",
     "puppeteer": "^1.0.0",
-    "sequelize": "^4.33.4"
+    "sequelize": "^5.15.1"
   }
 }
